@@ -1,12 +1,10 @@
-# arhiva-info
+# Generated Summary
 
-## oni
+# 2019
 
-### 2019
+## 10
 
-#### 10
-
-##### ziua-1
+### ziua-1
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
@@ -14,7 +12,7 @@
 | scara | Ok | Ok | Ok | Ok |
 | walle | Ok | Ok | Ok | Ok |
 
-##### ziua-2
+### ziua-2
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
@@ -22,9 +20,9 @@
 | pericol | Ok | Ok | Ok | Ok |
 | vip | Ok | Ok | Ok | Ok |
 
-#### 11-12
+## 11-12
 
-##### ziua-1
+### ziua-1
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
@@ -32,7 +30,7 @@
 | oracol | Ok | Ok | Ok | Ok |
 | treeGCD | Ok | Ok | Ok | Gol |
 
-##### ziua-2
+### ziua-2
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
@@ -40,11 +38,10 @@
 | hipersimetrie | Ok | Ok | Ok | Gol |
 | linegraph | Ok | Ok | Ok | Gol |
 
-#### baraj
+## baraj
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
 | anarhie | Ok | Ok | Gol | Gol |
 | dag | Ok | Ok | Gol | Gol |
 | takara | Ok | Ok | Gol | Gol |
-
