@@ -11,8 +11,7 @@ Concursurile la care mă gândeam că trebuie track-uite ar fi:
 * CEOI
 * IATI
 
-Dacă mai aveți sugestii de concursuri, sau vreți să modificați arhiva, contactați-mă pe mail,
-Telegram sau Discord. O să încerc să fac și o secțiune ca lumea de issues sau pull requesturi.
+Pentru a contribui, vezi [aici](CONTRIBUTING.md). Orice issue este bine-venit. La fel și pull request-urile, dar citește secțiunea de contribuții mai întâi.
 
 # Format arhivă
 
