@@ -6,6 +6,8 @@ O să prezint varianta mai ușoară mai întâi.
 Pentru început, trebuie adunate toate lucrurile legate de o problemă descrise [aici](https://github.com/tincaMatei/arhiva-info#format-arhiv%C4%83). 
 Dacă nu s-a găsit ceva, de exemplu teste, pune un fișier numit `broken.md` (atenție să fie litere mici).
 
+Am rugămintea ca pentru toate lucrurile să se găsească variante cât mai aproape de original. De exemplu, aș prefera pentru teste să am testele care s-au folosit la olimpiadă pe CMS. Dacă nu există acestea, atunci și testele descărcate de pe vreun Online Judge sunt bune. Pe scurt, căutați mai întâi varianta originală, iar dacă nu ați găsit nimic, folosiți alternative.
+
 Detalii importante care se află și pe formularul din issue-uri/pull request-uri:
 
 * Fiecare problemă are patru directoare: `enunt`, `teste`, `editorial` și `surse`. M-am asigurat că aceste directoare nu conțin diacritice, sunt formate doar din litere mici și sunt scrise exact la fel cum sunt puse la alte probleme.
