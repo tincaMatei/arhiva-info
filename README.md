@@ -13,6 +13,10 @@ Concursurile la care mă gândeam că trebuie track-uite ar fi:
 
 Pentru a contribui, vezi [aici](CONTRIBUTING.md). Orice issue este bine-venit. La fel și pull request-urile, dar citește secțiunea de contribuții mai întâi.
 
+# Utilizare arhivă
+
+Pe GitHub nu poți să descarci subdirectoare particulare. Pentru asta, poți folosi [download-directory](https://download-directory.github.io/).
+
 # Format arhivă
 
 O problemă trebuie să aibă patru directoare: enunt, teste, editorial, surse. Foarte important să
