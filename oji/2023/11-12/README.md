@@ -4,6 +4,6 @@
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
-| parcare | Ok | Ok | Ok | Gol |
+| parcare | Ok | Incomplet | Ok | Gol |
 | turcane | Ok | Ok | Ok | Gol |
 | veri | Ok | Ok | Ok | Gol |

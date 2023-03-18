@@ -16,7 +16,7 @@
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
-| parcare | Ok | Ok | Ok | Gol |
+| parcare | Ok | Incomplet | Ok | Gol |
 | turcane | Ok | Ok | Ok | Gol |
 | veri | Ok | Ok | Ok | Gol |
 
@@ -25,5 +25,5 @@
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
 | cufere | Ok | Ok | Ok | Gol |
-| fibosnek | Ok | Ok | Ok | Gol |
+| fibosnek | Ok | Incomplet | Ok | Gol |
 | partitura | Ok | Ok | Ok | Gol |
