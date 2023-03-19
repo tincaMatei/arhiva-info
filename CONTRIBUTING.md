@@ -1,19 +1,20 @@
 # Contribuții
 
-Există două moduri principale de a face contribuții. Fie varianta mai complicată, dar care ar fi mai corectă, fie varianta mai ușoară.
+Există două moduri principale de a face contribuții. Fie varianta mai complicată, dar care ar fi recomandată, fie varianta mai ușoară.
 O să prezint varianta mai ușoară mai întâi.
 
 Pentru început, trebuie adunate toate lucrurile legate de o problemă descrise [aici](https://github.com/tincaMatei/arhiva-info#format-arhiv%C4%83). 
-Dacă nu s-a găsit ceva, de exemplu teste, pune un fișier numit `broken.md` (atenție să fie litere mici).
+Dacă nu s-a găsit ceva, de exemplu teste, pune un fișier numit `missing.md` (atenție să fie litere mici) în care explici situația. Dacă ceva este greșit la
+ce ai, atunci pune un fișier `broken.md` în care, în mod similar, explici situația.
 
 Am rugămintea ca pentru toate lucrurile să se găsească variante cât mai aproape de original. De exemplu, aș prefera pentru teste să am testele care s-au folosit la olimpiadă pe CMS. Dacă nu există acestea, atunci și testele descărcate de pe vreun Online Judge sunt bune. Pe scurt, căutați mai întâi varianta originală, iar dacă nu ați găsit nimic, folosiți alternative.
 
 Detalii importante care se află și pe formularul din issue-uri/pull request-uri:
 
 * Fiecare problemă are patru directoare: `enunt`, `teste`, `editorial` și `surse`. M-am asigurat că aceste directoare nu conțin diacritice, sunt formate doar din litere mici și sunt scrise exact la fel cum sunt puse la alte probleme.
-* Toate directoarele din problemă conțin măcar un fișier. Dacă nu am găsit ceva, de exemplu teste, atunci voi pune un fișier `broken.md` în care explic situația și eventual niște alternative.
-* M-am asigurat că fiecare fișier nu depășește 50Mb. Dacă depășeau, am pus un fișier "broken.md" în care să pun un link la teste.
-* Fișierele `broken.md` sunt formate doar din litere mici.
+* Toate directoarele din problemă conțin măcar un fișier. Dacă nu am găsit ceva, de exemplu `teste`, atunci am pus un fișier `missing.md` în care explic situația și eventual niște alternative. Dacă există niște teste, dar nu există toate lucrurile necesare, sau ceva nu este corect, am pus fișierul `broken.md` în care explic ce este stricat.
+* M-am asigurat că testele în total nu depășesc 50 Mb. Dacă depășesc chiar și cu o arhivă, atunci am pus un fișier "broken.md" în care să pun un link la teste.
+* Fișierele `broken.md` sau `missing.md` sunt formate din litere mici (dacă există).
 * Nu am adăugat niciun fișier în plus, doar fiecare problemă și ce este nevoie pentru fiecare.
 
 ## Varianta cu pull request
@@ -22,6 +23,7 @@ Detalii importante care se află și pe formularul din issue-uri/pull request-ur
 2. Adaugă fișierele de la probleme în repository.
 3. Creează un pull request folosind template-ul de creat o problemă.
 4. Completează datele din pull request.
+5. Așteaptă. Trebuie să verific manual că totul este în regulă.
 
 ## Varianta prin issue-uri
 
