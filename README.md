@@ -75,25 +75,25 @@ README-ul va arăta urât.
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
-| arhitect | Ok | Ok | Ok | Gol |
-| bingo | Ok | Ok | Ok | Gol |
-| fotbal | Ok | Ok | Ok | Gol |
+| arhitect | Ok | Ok | Ok | Ok |
+| bingo | Ok | Ok | Ok | Ok |
+| fotbal | Ok | Ok | Ok | Ok |
 
 #### 11-12
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
-| parcare | Ok | Incomplet | Ok | Gol |
-| turcane | Ok | Ok | Ok | Gol |
-| veri | Ok | Ok | Ok | Gol |
+| parcare | Ok | Incomplet | Ok | Ok |
+| turcane | Ok | Ok | Ok | Ok |
+| veri | Ok | Ok | Ok | Ok |
 
 #### 9
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
-| cufere | Ok | Ok | Ok | Gol |
-| fibosnek | Ok | Incomplet | Ok | Gol |
-| partitura | Ok | Ok | Ok | Gol |
+| cufere | Ok | Ok | Ok | Ok |
+| fibosnek | Ok | Incomplet | Ok | Ok |
+| partitura | Ok | Ok | Ok | Ok |
 
 ## oni
 
@@ -125,15 +125,15 @@ README-ul va arăta urât.
 | ---- | ----- | ----- | --------- | ----- |
 | lexicografic | Ok | Ok | Ok | Ok |
 | oracol | Ok | Ok | Ok | Ok |
-| treeGCD | Ok | Ok | Ok | Gol |
+| treeGCD | Ok | Ok | Ok | Ok |
 
 ##### ziua-2
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
-| compact | Ok | Ok | Ok | Gol |
-| hipersimetrie | Ok | Ok | Ok | Gol |
-| linegraph | Ok | Ok | Ok | Gol |
+| compact | Ok | Ok | Ok | Ok |
+| hipersimetrie | Ok | Ok | Ok | Ok |
+| linegraph | Ok | Ok | Ok | Ok |
 
 #### 9
 
@@ -157,6 +157,6 @@ README-ul va arăta urât.
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
-| anarhie | Ok | Ok | Gol | Gol |
-| dag | Ok | Ok | Gol | Gol |
-| takara | Ok | Ok | Gol | Gol |
+| anarhie | Ok | Ok | Ok | Ok |
+| dag | Ok | Ok | Ok | Ok |
+| takara | Ok | Ok | Ok | Ok |

@@ -52,15 +52,15 @@ moment când a apărut și SEPI, s-a trecut înapoi la structura veche cu două 
 | ---- | ----- | ----- | --------- | ----- |
 | lexicografic | Ok | Ok | Ok | Ok |
 | oracol | Ok | Ok | Ok | Ok |
-| treeGCD | Ok | Ok | Ok | Gol |
+| treeGCD | Ok | Ok | Ok | Ok |
 
 #### ziua-2
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
-| compact | Ok | Ok | Ok | Gol |
-| hipersimetrie | Ok | Ok | Ok | Gol |
-| linegraph | Ok | Ok | Ok | Gol |
+| compact | Ok | Ok | Ok | Ok |
+| hipersimetrie | Ok | Ok | Ok | Ok |
+| linegraph | Ok | Ok | Ok | Ok |
 
 ### 9
 
@@ -84,6 +84,6 @@ moment când a apărut și SEPI, s-a trecut înapoi la structura veche cu două 
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
-| anarhie | Ok | Ok | Gol | Gol |
-| dag | Ok | Ok | Gol | Gol |
-| takara | Ok | Ok | Gol | Gol |
+| anarhie | Ok | Ok | Ok | Ok |
+| dag | Ok | Ok | Ok | Ok |
+| takara | Ok | Ok | Ok | Ok |
