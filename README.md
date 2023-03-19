@@ -20,15 +20,16 @@ Pe GitHub nu poți să descarci subdirectoare particulare. Pentru asta, poți fo
 # Format arhivă
 
 O problemă trebuie să aibă patru directoare: enunt, teste, editorial, surse. Foarte important să
-fie cu litere mici toate. Opțional, poate exista și câte un README.md ca să poate fi citit ușor. La 
-fel de important, pentru a merge cu [scriptul](https://github.com/tincaMatei/arhiva-info-summary) 
-de aici care se uită peste tot și face un rezumat.
+fie cu litere mici toate. Opțional, poate exista și câte un README.md ca să poate fi citit ușor. De asemenea pentru a merge cu 
+[scriptul](https://github.com/tincaMatei/arhiva-info-summary) de aici care se uită peste tot și face un rezumat este să existe 
+o linie goală la sfârșitul readme-ului ca să nu arate urât formatarea.
 
-Dacă pentru o problemă nu s-a găsit ceva, de exemplu teste, sau ceva, puneți un fișier broken.md.
-În mod similar, grijă la nume, că e case-sensitive.
+Dacă pentru o problemă nu s-a găsit ceva, de exemplu teste, sau ceva, puneți un fișier `missing.md`. Dacă ați găsit ceva, dar
+nu este complet sau este ceva stricat la structură, atunci puneți un fișier `broken.md`.
+În mod similar, fișierele trebuie să aibă litere mici, deoarece scriptul este case-sensitive.
 
 Pentru o colecție mai mare de probleme, se pot pune oricum, dar ar fi bine să existe o ordine. Pentru
-alte concursuri nu știu cum ar fi mai bine făcut, dar pentru OJI, structura arată ceva de genul:
+alte concursuri nu știu cum ar fi mai bine făcut, dar pentru OJI/ONI, structura arată ceva de genul:
 
 ```
 ONI/
@@ -53,7 +54,7 @@ teste să se pună și interactorul. Dacă nu există interactor, se pune imedia
 
 O altă chestie despre conținut, ar fi bine să fie cât mai aproape de realitate. De exemplu, 
 la niște probleme am vrut să le iau de pe Infoarena, dar am găsit până la urmă testele originale.
-Dacă nu se găsește nimic pentru un concurs, atunci vom pune niște înlocuitoare.
+Dacă nu se găsește nimic pentru un concurs, atunci vom pune niște variante alternative.
 
 Pentru problemele care au teste gigantice, probabil nu le voi pune pe GitHub, mai bine punem un 
 readme în fișierul cu teste care să aibă un link care duce la teste. De preferat, linkul acela 
@@ -62,7 +63,7 @@ ar trebui să fie unul care să nu crape.
 # README.md
 
 Fiecare fișier poate avea un README.md. Scriptul de mai sus va modifica acest fișier și va adăuga
-un rezumat la sfârșit cu ce chestii lipsesc. Este foarte important să nu se modifice nimic la partea
+un rezumat la sfârșit cu ce chestii care lipsesc. Este foarte important să nu se modifice nimic la partea
 generată. Dacă pentru un README încă nu s-a generat nimic, să fie două "\n"-uri la sfârșit, altfel
 README-ul va arăta urât.
 
