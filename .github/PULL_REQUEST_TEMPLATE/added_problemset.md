@@ -1,3 +1,12 @@
+---
+name: Added problems
+about: Am adăugat probleme.
+title: "[ADD] Am adăugat problemele de la ..."
+labels: informal pull request
+assignees: ''
+
+---
+
 Am adăugat problemele:
 
 | Nume | Sursă | Enunț | Teste | Editorial | Surse |
