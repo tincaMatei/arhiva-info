@@ -4,6 +4,6 @@
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
-| compact | Ok | Ok | Ok | Ok |
-| hipersimetrie | Ok | Ok | Ok | Ok |
-| linegraph | Ok | Ok | Ok | Ok |
+| compact | Ok | Ok | Ok | Gol |
+| hipersimetrie | Ok | Ok | Ok | Gol |
+| linegraph | Ok | Ok | Ok | Gol |

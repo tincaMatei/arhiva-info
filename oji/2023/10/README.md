@@ -4,6 +4,6 @@
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
-| arhitect | Ok | Ok | Ok | Ok |
-| bingo | Ok | Ok | Ok | Ok |
-| fotbal | Ok | Ok | Ok | Ok |
+| arhitect | Ok | Ok | Ok | Gol |
+| bingo | Ok | Ok | Ok | Gol |
+| fotbal | Ok | Ok | Ok | Gol |

@@ -4,6 +4,6 @@
 
 | Nume | Enunt | Teste | Editorial | Surse |
 | ---- | ----- | ----- | --------- | ----- |
-| anarhie | Ok | Ok | Ok | Ok |
-| dag | Ok | Ok | Ok | Ok |
-| takara | Ok | Ok | Ok | Ok |
+| anarhie | Ok | Ok | Gol | Gol |
+| dag | Ok | Ok | Gol | Gol |
+| takara | Ok | Ok | Gol | Gol |
