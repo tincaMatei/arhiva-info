@@ -20,4 +20,6 @@ Problemele adăugate se pot găsi la linkul următor, conform formatului descris
 - [ ] M-am asigurat că testele în total nu depășesc 50 Mb. Dacă depășesc chiar și cu o arhivă, atunci am pus un fișier "broken.md" în care să pun un link la teste.
 - [ ] Fișierele `broken.md` sau `missing.md` sunt formate din litere mici (dacă există).
 - [ ] Nu am adăugat niciun fișier în plus, doar fiecare problemă și ce este nevoie pentru fiecare.
-- [ ] Am pus link în acest issue cu unde găsesc datele problemelor date.
+- [ ] Am adăugat, dacă există, un fișier care să conțină linkuri pe alte online judge-uri cu problema.
+- [ ] În fișierul `teste`, am adăugat într-un `README.md` regexul folosit în concurs (pentru punctarea testelor). Dacă nu am găsit, atunci am pus un fișier `broken.md`.
+- [ ] În fișierul `enunt`, am adăugat într-un `README.md` limita de timp și de memorie pe problemă. Dacă nu am găsit, atunci am pus un fișier `broken.md`.
