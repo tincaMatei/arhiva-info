@@ -87,53 +87,53 @@ README-ul va arăta urât.
 
 #### 10
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| circular | Ok | Ok | Ok | Gol |
-| pulsar | Ok | Ok | Ok | Gol |
-| transport | Ok | Incomplet | Ok | Gol |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| circular | Ok | Ok | Ok | Gol |  |
+| pulsar | Ok | Ok | Ok | Gol |  |
+| transport | Ok | Incomplet | Ok | Gol |  |
 
 #### 11-12
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| dulciuri | Ok | Ok | Ok | Gol |
-| investitie | Ok | Incomplet | Ok | Gol |
-| superhedgy | Ok | Ok | Ok | Gol |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| dulciuri | Ok | Ok | Ok | Gol |  |
+| investitie | Ok | Incomplet | Ok | Gol |  |
+| superhedgy | Ok | Ok | Ok | Gol |  |
 
 #### 9
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| balba | Ok | Ok | Ok | Gol |
-| oneout | Ok | Incomplet | Ok | Gol |
-| pergament | Ok | Ok | Ok | Gol |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| balba | Ok | Ok | Ok | Gol |  |
+| oneout | Ok | Incomplet | Ok | Gol |  |
+| pergament | Ok | Ok | Ok | Gol |  |
 
 ### 2023
 
 #### 10
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| arhitect | Ok | Ok | Ok | Gol |
-| bingo | Ok | Ok | Ok | Gol |
-| fotbal | Ok | Ok | Ok | Gol |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| arhitect | Ok | Ok | Ok | Gol |  |
+| bingo | Ok | Ok | Ok | Gol |  |
+| fotbal | Ok | Ok | Ok | Gol |  |
 
 #### 11-12
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| parcare | Ok | Incomplet | Ok | Gol |
-| turcane | Ok | Ok | Ok | Gol |
-| veri | Ok | Ok | Ok | Gol |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| parcare | Ok | Incomplet | Ok | Gol |  |
+| turcane | Ok | Ok | Ok | Gol |  |
+| veri | Ok | Ok | Ok | Gol |  |
 
 #### 9
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| cufere | Ok | Ok | Ok | Gol |
-| fibosnek | Ok | Incomplet | Ok | Gol |
-| partitura | Ok | Ok | Ok | Gol |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| cufere | Ok | Ok | Ok | Gol |  |
+| fibosnek | Ok | Incomplet | Ok | Gol |  |
+| partitura | Ok | Ok | Ok | Gol |  |
 
 ## oni
 
@@ -143,60 +143,60 @@ README-ul va arăta urât.
 
 ##### ziua-1
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| artifact | Ok | Ok | Ok | Ok |
-| scara | Ok | Ok | Ok | Ok |
-| walle | Ok | Ok | Ok | Ok |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| artifact | Ok | Ok | Ok | Ok |  |
+| scara | Ok | Ok | Ok | Ok |  |
+| walle | Ok | Ok | Ok | Ok |  |
 
 ##### ziua-2
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| nozero | Ok | Ok | Ok | Ok |
-| pericol | Ok | Ok | Ok | Ok |
-| vip | Ok | Ok | Ok | Ok |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| nozero | Ok | Ok | Ok | Ok |  |
+| pericol | Ok | Ok | Ok | Ok |  |
+| vip | Ok | Ok | Ok | Ok |  |
 
 #### 11-12
 
 ##### ziua-1
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| lexicografic | Ok | Ok | Ok | Ok |
-| oracol | Ok | Ok | Ok | Ok |
-| treeGCD | Ok | Ok | Ok | Gol |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| lexicografic | Ok | Ok | Ok | Ok |  |
+| oracol | Ok | Ok | Ok | Ok |  |
+| treeGCD | Ok | Ok | Ok | Gol |  |
 
 ##### ziua-2
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| compact | Ok | Ok | Ok | Gol |
-| hipersimetrie | Ok | Ok | Ok | Gol |
-| linegraph | Ok | Ok | Ok | Gol |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| compact | Ok | Ok | Ok | Gol |  |
+| hipersimetrie | Ok | Ok | Ok | Gol |  |
+| linegraph | Ok | Ok | Ok | Gol |  |
 
 #### 9
 
 ##### ziua-1
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| amat | Ok | Ok | Ok | Ok |
-| comun | Ok | Ok | Ok | Ok |
-| pro3 | Ok | Ok | Ok | Ok |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| amat | Ok | Ok | Ok | Ok |  |
+| comun | Ok | Ok | Ok | Ok |  |
+| pro3 | Ok | Ok | Ok | Ok |  |
 
 ##### ziua-2
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| cub | Ok | Ok | Ok | Ok |
-| fibofrac | Ok | Ok | Ok | Ok |
-| telefon | Ok | Ok | Ok | Ok |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| cub | Ok | Ok | Ok | Ok |  |
+| fibofrac | Ok | Ok | Ok | Ok |  |
+| telefon | Ok | Ok | Ok | Ok |  |
 
 #### baraj
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| anarhie | Ok | Ok | Gol | Gol |
-| dag | Ok | Ok | Gol | Gol |
-| takara | Ok | Ok | Gol | Gol |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| anarhie | Ok | Ok | Gol | Gol |  |
+| dag | Ok | Ok | Gol | Gol |  |
+| takara | Ok | Ok | Gol | Gol |  |

@@ -2,8 +2,8 @@
 
 # 10
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| arhitect | Ok | Ok | Ok | Gol |
-| bingo | Ok | Ok | Ok | Gol |
-| fotbal | Ok | Ok | Ok | Gol |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| arhitect | Ok | Ok | Ok | Gol |  |
+| bingo | Ok | Ok | Ok | Gol |  |
+| fotbal | Ok | Ok | Ok | Gol |  |

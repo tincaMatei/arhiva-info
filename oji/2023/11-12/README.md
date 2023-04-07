@@ -2,8 +2,8 @@
 
 # 11-12
 
-| Nume | Enunt | Teste | Editorial | Surse |
-| ---- | ----- | ----- | --------- | ----- |
-| parcare | Ok | Incomplet | Ok | Gol |
-| turcane | Ok | Ok | Ok | Gol |
-| veri | Ok | Ok | Ok | Gol |
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| parcare | Ok | Incomplet | Ok | Gol |  |
+| turcane | Ok | Ok | Ok | Gol |  |
+| veri | Ok | Ok | Ok | Gol |  |
