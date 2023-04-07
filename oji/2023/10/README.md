@@ -4,6 +4,6 @@
 
 | Nume | Enunt | Teste | Editorial | Surse | Mirrors |
 | ---- | ----- | ----- | --------- | ----- | ------- |
-| arhitect | Ok | Ok | Ok | Gol |  |
-| bingo | Ok | Ok | Ok | Gol |  |
-| fotbal | Ok | Ok | Ok | Gol |  |
+| arhitect | Ok | Ok | Ok | Gol | [Kilonova](https://kilonova.ro/problems/504), [pbinfo](https://www.pbinfo.ro/probleme/4392/arhitect) |
+| bingo | Ok | Ok | Ok | Gol | [Kilonova](https://kilonova.ro/problems/503), [pbinfo](https://www.pbinfo.ro/probleme/4390/bingo) |
+| fotbal | Ok | Ok | Ok | Gol | [Kilonova](https://kilonova.ro/problems/505), [pbinfo](https://www.pbinfo.ro/probleme/4394/fotbal2) |
