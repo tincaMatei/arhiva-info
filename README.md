@@ -60,6 +60,16 @@ Pentru problemele care au teste gigantice, probabil nu le voi pune pe GitHub, ma
 readme în fișierul cu teste care să aibă un link care duce la teste. De preferat, linkul acela 
 ar trebui să fie unul care să nu crape.
 
+De asemenea, fiecare problemă mai poate conține și un fișier `mirrors.json` unde se află linkuri
+pe platforme unde se pot rezolva problemele. Acesta va avea structura următoare:
+
+```
+{
+    "InfoArena": "https://infoarena.ro/problema/scara5",
+    "PBInfo": "https://www.pbinfo.ro/probleme/3049/scara2"
+}
+```
+
 # README.md
 
 Fiecare fișier poate avea un README.md. Scriptul de mai sus va modifica acest fișier și va adăuga
