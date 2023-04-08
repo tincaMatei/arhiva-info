@@ -8,17 +8,17 @@
 
 | Nume | Enunt | Teste | Editorial | Surse | Mirrors |
 | ---- | ----- | ----- | --------- | ----- | ------- |
-| artifact | Ok | Ok | Ok | Ok |  |
-| scara | Ok | Ok | Ok | Ok |  |
-| walle | Ok | Ok | Ok | Ok |  |
+| artifact | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/artifact), [pbinfo](https://www.pbinfo.ro/probleme/3048/artifact) |
+| scara | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/scara5), [pbinfo](https://www.pbinfo.ro/probleme/3049/scara2) |
+| walle | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/walle), [pbinfo](https://www.pbinfo.ro/probleme/3056/walle) |
 
 ### ziua-2
 
 | Nume | Enunt | Teste | Editorial | Surse | Mirrors |
 | ---- | ----- | ----- | --------- | ----- | ------- |
-| nozero | Ok | Ok | Ok | Ok |  |
-| pericol | Ok | Ok | Ok | Ok |  |
-| vip | Ok | Ok | Ok | Ok |  |
+| nozero | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/nozero), [pbinfo](https://www.pbinfo.ro/probleme/3052/nozero) |
+| pericol | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/pericol), [pbinfo](https://www.pbinfo.ro/probleme/3055/pericol) |
+| vip | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/vip), [pbinfo](https://www.pbinfo.ro/probleme/3058/vip) |
 
 ## 11-12
 
@@ -26,17 +26,17 @@
 
 | Nume | Enunt | Teste | Editorial | Surse | Mirrors |
 | ---- | ----- | ----- | --------- | ----- | ------- |
-| lexicografic | Ok | Ok | Ok | Ok |  |
-| oracol | Ok | Ok | Ok | Ok |  |
-| treeGCD | Ok | Ok | Ok | Gol |  |
+| lexicografic | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/lexicografic), [Kilonova](https://kilonova.ro/problems/7), [pbinfo](https://www.pbinfo.ro/probleme/3059/lexicografic) |
+| oracol | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/oracol), [Kilonova](https://kilonova.ro/problems/10), [pbinfo](https://www.pbinfo.ro/probleme/3061/oracol) |
+| treeGCD | Ok | Ok | Ok | Gol | [Infoarena](https://infoarena.ro/problema/treegcd), [Kilonova](https://kilonova.ro/problems/11) |
 
 ### ziua-2
 
 | Nume | Enunt | Teste | Editorial | Surse | Mirrors |
 | ---- | ----- | ----- | --------- | ----- | ------- |
-| compact | Ok | Ok | Ok | Gol |  |
-| hipersimetrie | Ok | Ok | Ok | Gol |  |
-| linegraph | Ok | Ok | Ok | Gol |  |
+| compact | Ok | Ok | Ok | Gol | [Infoarena](https://infoarena.ro/problema/compact3), [Kilonova](https://kilonova.ro/problems/12) |
+| hipersimetrie | Ok | Ok | Ok | Gol | [Infoarena](https://infoarena.ro/problema/hipersimetrie), [Kilonova](https://kilonova.ro/problems/13) |
+| linegraph | Ok | Ok | Ok | Gol | [Infoarena](https://infoarena.ro/problema/linegraph), [Kilonova](https://kilonova.ro/problems/14) |
 
 ## 9
 
@@ -44,22 +44,22 @@
 
 | Nume | Enunt | Teste | Editorial | Surse | Mirrors |
 | ---- | ----- | ----- | --------- | ----- | ------- |
-| amat | Ok | Ok | Ok | Ok |  |
-| comun | Ok | Ok | Ok | Ok |  |
-| pro3 | Ok | Ok | Ok | Ok |  |
+| amat | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/amat), [pbinfo](https://www.pbinfo.ro/probleme/3042/amat) |
+| comun | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/comun), [pbinfo](https://www.pbinfo.ro/probleme/3044/comun1) |
+| pro3 | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/pro3), [pbinfo](https://www.pbinfo.ro/probleme/3045/pro3) |
 
 ### ziua-2
 
 | Nume | Enunt | Teste | Editorial | Surse | Mirrors |
 | ---- | ----- | ----- | --------- | ----- | ------- |
-| cub | Ok | Ok | Ok | Ok |  |
-| fibofrac | Ok | Ok | Ok | Ok |  |
-| telefon | Ok | Ok | Ok | Ok |  |
+| cub | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/cub5), [pbinfo](https://www.pbinfo.ro/probleme/3043/cub3) |
+| fibofrac | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/fibofrac), [pbinfo](https://www.pbinfo.ro/probleme/3047/fibofrac) |
+| telefon | Ok | Ok | Ok | Ok | [Infoarena](https://infoarena.ro/problema/telefon3), [pbinfo](https://www.pbinfo.ro/probleme/3046/telefon) |
 
 ## baraj
 
 | Nume | Enunt | Teste | Editorial | Surse | Mirrors |
 | ---- | ----- | ----- | --------- | ----- | ------- |
-| anarhie | Ok | Ok | Gol | Gol |  |
-| dag | Ok | Ok | Gol | Gol |  |
-| takara | Ok | Ok | Gol | Gol |  |
+| anarhie | Ok | Ok | Gol | Gol | [Infoarena](https://infoarena.ro/problema/anarhie), [Kilonova](https://kilonova.ro/problems/409) |
+| dag | Ok | Ok | Gol | Gol | [Infoarena](https://infoarena.ro/problema/dag), [Kilonova](https://kilonova.ro/problems/410) |
+| takara | Ok | Ok | Gol | Gol | [Infoarena](https://infoarena.ro/problema/takara), [Kilonova](https://kilonova.ro/problems/411) |
