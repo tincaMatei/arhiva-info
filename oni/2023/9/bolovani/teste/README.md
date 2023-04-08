@@ -1,0 +1,1 @@
+Fiecare test are 10 puncte

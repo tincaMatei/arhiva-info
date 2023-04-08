@@ -1,0 +1,1 @@
+Arhiva de teste este prea mare. Testele se pot descărca de [aici](https://sepi.ro/assets/upload-file/oni2023/ONI/11_12_teste.zip).
