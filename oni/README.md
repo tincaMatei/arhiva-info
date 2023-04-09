@@ -16,7 +16,7 @@ Niște detalii importante despre structura olimpiadei:
 * Se dădeau două zile cu câte trei probleme la probele de la națională.
 Între timp, regulile s-au schimbat, și acuma este doar o zi cu trei probleme la națională.
 * Se dădeau două zile cu câte trei probleme la probele de baraj cândva demult. Între timp,
-regulile s-au schimbat și s-a trecut la o singură de baraj. Recent, aproximativ în același 
+regulile s-au schimbat și s-a trecut la o singură zi de baraj. Recent, aproximativ în același 
 moment când a apărut și SEPI, s-a trecut înapoi la structura veche cu două zile de baraj.
 * Cândva demult s-a dat o problemă interactivă la ONI la baraj, se chema "kmalloc".
 
