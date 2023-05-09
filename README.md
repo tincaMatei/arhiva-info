@@ -81,6 +81,18 @@ README-ul va arăta urât.
 
 # arhiva-info
 
+## lot
+
+### 2023
+
+#### ziua-1
+
+| Nume | Enunt | Teste | Editorial | Surse | Mirrors |
+| ---- | ----- | ----- | --------- | ----- | ------- |
+| apa | Ok | Ok | Gol | Ok |  |
+| benzi | Ok | Incomplet | Gol | Ok |  |
+| sirdacic | Ok | Ok | Gol | Ok |  |
+
 ## oji
 
 ### 2022
@@ -125,7 +137,7 @@ README-ul va arăta urât.
 | ---- | ----- | ----- | --------- | ----- | ------- |
 | parcare | Ok | Incomplet | Ok | Gol | [Kilonova](https://kilonova.ro/problems/500), [pbinfo](https://www.pbinfo.ro/probleme/4413/parcare2) |
 | turcane | Ok | Ok | Ok | Gol | [Kilonova](https://kilonova.ro/problems/501), [pbinfo](https://www.pbinfo.ro/probleme/4410/turcane) |
-| veri | Ok | Ok | Ok | Gol | [Kilonova](https://kilonova.ro/problems/502), [pbinfo](https://www.pbinfo.ro/probleme/4411/veri) |
+| veri | Ok | Ok | Ok | Ok | [Kilonova](https://kilonova.ro/problems/502), [pbinfo](https://www.pbinfo.ro/probleme/4411/veri) |
 
 #### 9
 
